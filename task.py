@@ -35,4 +35,6 @@ else:
 enter = int(input("ENTER A NUMBER:"))
 
 
+print("Data added")
+
 
